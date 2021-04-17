@@ -1,0 +1,12 @@
+Problem Description: 
+
+Consider a 2-Dimensional integer array A[101][101] of dimensions 101×101. 
+2000 indices i,j are generated randomly so that each i and j is uniformly distributed in the interval [0,100].
+Initially the elements A[i][j] are assigned unde?ned values of your choice. For each pair of random indices i,j generated, 
+if the corresponding element A[i][j] is undefined, a count of 1 is assigned otherwise the element count is increased by 1.
+
+ After 2000 generated pairs of indices i,j some entries in the array will be unde?ned, 
+ some will have positive values of count = 1 as shown in the Figure 1. 
+ Given an array populated as above, and a rectangular covering region, as shown in blue, 
+ the problem is to report the coordinates or indices i,j of the entries with positive counts and the values of the respective counts. 
+
