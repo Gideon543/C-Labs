@@ -12,6 +12,9 @@ g++ -std=c++11 -c printLineByCoords.cpp
 echo "Compiling getStabbedLines.cpp"
 g++ -std=c++11 -c getStabbedLines.cpp
 
+echo "Compiling testStabLineProg.cpp"
+g++ -std=c++11 -c testStabLineProg.cpp
+
 echo "Linking .o files"
 g++ -std=c++11 -o testStabLineProg readLines.o readPoints.o printLineByCoords.o getStabbedLines.o testStabLineProg.o -I.
 
