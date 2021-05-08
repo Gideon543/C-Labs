@@ -1,0 +1,40 @@
+Printing Cylinderical Objects in Ascending Order
+
+Diameter: 3 Length:3 Surface Area:25.1327
+
+Diameter: 4 Length:4 Surface Area:62.8319
+
+Diameter: 5 Length:17 Surface Area:226.195
+
+Diameter: 5 Length:5 Surface Area:75.3982
+
+Diameter: 6 Length:12 Surface Area:245.044
+
+Diameter: 7 Length:5 Surface Area:113.097
+
+Diameter: 7 Length:7 Surface Area:150.796
+
+Diameter: 8 Length:16 Surface Area:427.257
+
+Diameter: 10 Length:10 Surface Area:345.575
+
+Diameter: 10 Length:12 Surface Area:408.407
+
+Diameter: 11 Length:20 Surface Area:659.734
+
+Diameter: 12 Length:12 Surface Area:490.088
+
+
+Printing Spherical Objects in Ascending Order
+
+Diameter: 3 Volume:3.14159 Surface Area:12.5664
+
+Diameter: 4 Volume:25.1327 Surface Area:50.2655
+
+Diameter: 5 Volume:25.1327 Surface Area:50.2655
+
+Diameter: 7 Volume:84.823 Surface Area:113.097
+
+Diameter: 10 Volume:392.699 Surface Area:314.159
+
+Diameter: 12 Volume:678.584 Surface Area:452.389
