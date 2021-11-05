@@ -1,7 +1,3 @@
 # C-Labs
+This repository contains some computational lab problems solved in C++.
 
-
-TEAM MEMBERS:
-Lois Otchi; 
- Gideon Donkor Bonsu;
- Akosua Takyiwaa-Debrah
